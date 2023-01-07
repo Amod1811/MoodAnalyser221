@@ -12,9 +12,7 @@ public class MoodAnalyserMain {
 
         // pass Happy message
         System.out.println(moodAnalyser.analysemood("I am in Happy Mood"));
-
-        //pass sad message
-
-        System.out.println(moodAnalyser.analysemood("I am in  Sad Mood"));
+        //pass SAD message
+        System.out.println(moodAnalyser.analysemood("I am in SAD Mood"));
     }
 }
