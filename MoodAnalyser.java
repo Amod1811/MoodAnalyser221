@@ -12,7 +12,6 @@ public class MoodAnalyser {
              return "SAD";
         else if (message.equalsIgnoreCase("I am in happy Mood"))
                 return "HAPPY";
-
         else
             return "No match";
 
